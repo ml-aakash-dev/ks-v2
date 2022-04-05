@@ -149,7 +149,7 @@ const Brands = () => {
                     </button> 
                 </a>
                     }
-               {/* <Link to={item.joinBtn  !== 'Be A Partner'? '/jobapplication23': '/partner_application'}>
+               {/* <Link to={item.joinBtn  !== 'Be A Managing Partner'? '/jobapplication23': '/partner_application'}>
                 <button className='Brands_PrimaryBtn Brands_PrimaryFilledBtn'>
                  {item.joinBtn}
                 </button>

@@ -97,7 +97,7 @@ const JobApplication = () => {
                     SelectProps={{
                         native: true,
                     }}
-                    helperText="Please select company you want to be a partner with."
+                    helperText="Please select company you want to Be A Managing Partner with."
                     >
                 {companies.map((option) => (
                     <option key={option } value={option}>

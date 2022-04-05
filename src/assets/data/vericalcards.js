@@ -25,7 +25,7 @@ let cards =
             ,slogan:'The one-stop shop for all your cellphones and laptops accessories'
             ,"btn":"See Details",
             "id":"Telecommunication",
-            joinBtn:'Be A Partner',
+            joinBtn:'Be A Managing Partner',
             link:'https://wholecellonline.com/whole-cell-online-site/?msg='
         },
         {
@@ -56,7 +56,7 @@ let cards =
             des:'Our gaming stations equip you with the latest technological advancements that virtual reality has to offer. Along with over 198 immersive games and experiences, we provide each gamer with vr gear (gaming peripherals) to facilitate an experience unlike any other. Our unique technology keeps your friends engaged and just as immersed as you, turning even single player games into engaging co-op experiences'
             ,slogan:'VR the way it’s meant to be'
             ,"btn":"See Details",
-            joinBtn:'Be A Partner',
+            joinBtn:'Be A Managing Partner',
             link:"https://www.gammavr.com/"
         },
         {

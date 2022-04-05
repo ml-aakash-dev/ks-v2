@@ -124,7 +124,7 @@ const Hero = ({slidesContent,children}) => {
               }
               {slide.btn &&
                slide.insanbnja ? 
-               <Link to={slide.insanbnja  !== 'Be A Partner'? '/jobapplication23': '/partner_application'}>
+               <Link to={slide.insanbnja  !== 'Be A Managing Partner'? '/jobapplication23': '/partner_application'}>
                   <button className='SecondHeroBtnForVerticalPage'>
                     {slide.insanbnja}
                   </button>
